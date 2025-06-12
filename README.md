@@ -21,5 +21,9 @@ This project aims to calculate and predict the Customer Lifetime Value (CLTV) of
 - Model fitting and CLTV calculation  
 - Segmentation based on predicted CLTV
 
-## 📁 Folder Structure
+## 💡 What You Can Learn
+
+- How to build customer lifetime value models
+- How to work with transactional customer data
+- Real-world application of probabilistic modeling
 
