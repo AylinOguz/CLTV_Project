@@ -14,8 +14,7 @@ This project aims to calculate and predict the Customer Lifetime Value (CLTV) of
   - **Gamma-Gamma** for monetary value prediction.
 
 ## 📊 Key Steps
-
-- Data cleaning and preprocessing  
+  
 - Outlier detection and treatment  
 - Feature engineering (Recency, Frequency, T, Monetary)  
 - Model fitting and CLTV calculation  
