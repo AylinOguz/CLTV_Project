@@ -5,7 +5,7 @@
 
 This project aims to calculate and predict the Customer Lifetime Value (CLTV) of FLO's customers using probabilistic models. By understanding how much revenue a customer is likely to generate over a specific time period, businesses can make more informed marketing and customer retention decisions.
 
-## 🔍 Project Overview
+##  Project Overview
 
 - Data Source: OmniChannel customer transaction data from 2020–2021.
 - Objective: Estimate the potential future value of existing customers.
@@ -13,14 +13,14 @@ This project aims to calculate and predict the Customer Lifetime Value (CLTV) of
   - **BG/NBD** (Beta-Geometric/Negative Binomial Distribution) for purchase frequency prediction.
   - **Gamma-Gamma** for monetary value prediction.
 
-## 📊 Key Steps
+##  Key Steps
   
 - Outlier detection and treatment  
 - Feature engineering (Recency, Frequency, T, Monetary)  
 - Model fitting and CLTV calculation  
 - Segmentation based on predicted CLTV
 
-## 💡 What You Can Learn
+##  What You Can Learn
 
 - How to build customer lifetime value models
 - How to work with transactional customer data
